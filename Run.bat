@@ -4,11 +4,11 @@ Args:
     Image1
     Image2
 
-C:/Projects/Programming/ArbetsprovTenstar/out/build/x64-Debug/ImageDiffer.exe ^
+C:/Projects/Programming/DeltaImage/out/build/x64-Debug/ImageDiffer.exe ^
 Diff ^
-C:/Projects/Programming/ArbetsprovTenstar/testImages/output ^
-C:/Projects/Programming/ArbetsprovTenstar/testImages/White.png ^
-C:/Projects/Programming/ArbetsprovTenstar/testImages/Test1.png
+C:/Projects/Programming/DeltaImage/testImages/output ^
+C:/Projects/Programming/DeltaImage/testImages/White.png ^
+C:/Projects/Programming/DeltaImage/testImages/Test1.png
 
 REM^
 Args:
@@ -16,10 +16,10 @@ Args:
     Output Directory
     Keywords matching json file keys
 
-C:/Projects/Programming/ArbetsprovTenstar/out/build/x64-Debug/ImageDiffer.exe ^
+C:/Projects/Programming/DeltaImage/out/build/x64-Debug/ImageDiffer.exe ^
 Filter ^
-C:/Projects/Programming/ArbetsprovTenstar/testImages/output ^
-C:/Projects/Programming/ArbetsprovTenstar/testImages/output/filteredData ^
+C:/Projects/Programming/DeltaImage/testImages/output ^
+C:/Projects/Programming/DeltaImage/testImages/output/filteredData ^
 MatchPercent ^
 ColorDelta ^
 Other
