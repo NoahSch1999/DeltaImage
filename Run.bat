@@ -4,7 +4,7 @@ Args:
     Image1
     Image2
 
-C:/Projects/Programming/DeltaImage/out/build/x64-Debug/ImageDiffer.exe ^
+C:/Projects/Programming/DeltaImage/out/build/x64-Debug/DeltaImage.exe ^
 Diff ^
 C:/Projects/Programming/DeltaImage/testImages/output ^
 C:/Projects/Programming/DeltaImage/testImages/White.png ^
@@ -16,7 +16,7 @@ Args:
     Output Directory
     Keywords matching json file keys
 
-C:/Projects/Programming/DeltaImage/out/build/x64-Debug/ImageDiffer.exe ^
+C:/Projects/Programming/DeltaImage/out/build/x64-Debug/DeltaImage.exe ^
 Filter ^
 C:/Projects/Programming/DeltaImage/testImages/output ^
 C:/Projects/Programming/DeltaImage/testImages/output/filteredData ^
