@@ -1,10 +1,10 @@
-#include "Image.hpp"
-
 #include <string>
 #include <unordered_map>
 
 namespace DeltaImage
 {
+	class Image;
+
 	namespace Private
 	{
 		struct LoadedImageData
